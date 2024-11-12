@@ -32,10 +32,18 @@ El script permite ejecutar varias funciones relacionadas con la ciberseguridad y
     - `monitor_hashing`
     - `port_scanner`
 
+## Funcionalidades
 Instalar las dependencias de Python:
 ```bash
 pip install -r requirements.txt
-
-Notas importantes sobre personalización:
+```
+##Notas importantes sobre personalización:
 - En la sección de **Personalización de rutas**, se menciona que las rutas de los scripts de PowerShell y Bash deben ser ajustadas si es necesario, dependiendo del sistema y la ubicación de los archivos. Asegúrate de actualizar los archivos de PowerShell (`funciones_powershell.ps1`) y los scripts de Bash (`scan_ports.sh`, `Network_monitor.sh`) con rutas correctas en tu máquina.
 - Si usas Windows, asegúrate de tener permisos de ejecución de scripts de PowerShell (puedes hacerlo ejecutando `Set-ExecutionPolicy RemoteSigned` en PowerShell con privilegios de administrador).
+
+## Autores 
+* **Kevin Ochoa** - [Rafa8alpz](https://github.com/Rafa8alpz)
+* **Karyme Gonzalez** - [KaryGzz](https://github.com/KaryGzz)
+* **Maximiliano Gomez** - [MaxzGG](hhttps://github.com/MaxzGG)
+
+
