@@ -44,6 +44,6 @@ pip install -r requirements.txt
 ## Autores 
 * **Kevin Ochoa** - [Rafa8alpz](https://github.com/Rafa8alpz)
 * **Karyme Gonzalez** - [KaryGzz](https://github.com/KaryGzz)
-* **Maximiliano Gomez** - [MaxzGG](hhttps://github.com/MaxzGG)
+* **Maximiliano Gomez** - [MaxzGG](https://github.com/MaxzGG)
 
 
